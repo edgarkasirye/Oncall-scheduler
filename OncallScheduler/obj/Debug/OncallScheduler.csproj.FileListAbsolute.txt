@@ -1,0 +1,10 @@
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\bin\Debug\OncallScheduler.exe.config
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\bin\Debug\OncallScheduler.exe
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\bin\Debug\OncallScheduler.pdb
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\bin\Debug\System.ValueTuple.dll
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\bin\Debug\System.ValueTuple.xml
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\obj\Debug\OncallScheduler.csprojAssemblyReference.cache
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\obj\Debug\OncallScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\obj\Debug\OncallScheduler.csproj.CopyComplete
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\obj\Debug\OncallScheduler.exe
+C:\Users\Edgar\Desktop\OncallScheduler\OncallScheduler\OncallScheduler\obj\Debug\OncallScheduler.pdb
